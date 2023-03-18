@@ -2,7 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "example/ch01",
+			"name": "example-ch01"
 		}
+
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
