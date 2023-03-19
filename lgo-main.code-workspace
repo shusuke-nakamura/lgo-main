@@ -10,6 +10,10 @@
 		{
 			"path": "example/ch02",
 			"name": "example-ch02"
+		},
+		{
+			"path": "example/ch03",
+			"name": "example-ch03"
 		}
 
 	],
